@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.80.0">
+    <title>Sistem Informasi Covid-19</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/dashboard/">
+
+
+    <!-- Bootstrap core CSS -->
+    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css" rel="stylesheet">
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+        
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+    </style>
+
+
+    <!-- Custom styles for this template -->
+    <link href="dashboard.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
+        <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="#">Covid-19</a>
+        <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+        <input class="form-control form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">
+        <ul class="navbar-nav px-3">
+            <li class="nav-item text-nowrap">
+                <a class="nav-link" href="#">Sign out</a>
+            </li>
+        </ul>
+    </header>
+
+    <div class="container-fluid">
+        <div class="row">
+            <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+                <div class="position-sticky pt-3">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html">
+                                <span data-feather="home"></span>
+                                <h6>Dashboard</h6>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="berita.html">
+                                <span data-feather="world"></span>
+                                <h6>Berita</h6>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="ringkasan.html">
+                                <span data-feather="books"></span>
+                                <h6>Ringkasan</h6>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="panduan-prokes.html">
+                                <span data-feather="layers"></span>
+                                <h6>Panduan Prokes</h6>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                    <h1 class="h2">SIA Kantor Desa Jango Kecamatan Janapria Covid-19</h1>
+                </div>
+                <div class="row">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-6">
+                        <select name="dusun" id="dusun" class="form-select">
+                        <option value="0">Semua Dusun</option>
+                        <option value="1">Janapria</option>
+                        <option value="2">Kerembong</option>
+                        <option value="3">Bolor</option>
+                        <option value="4">Perok Barat</option>
+                        <option value="5">Perok Timur</option>
+                      </select>
+                    </div>
+                    <div class="col-md-3">
+                        <button type="button" class="btn btn-outline-primary" id="button">Search</button>
+
+                    </div>
+                </div>
+
+                <canvas class="my-4 w-100" id="covidStatus" width="900" height="380"></canvas>
+
+                <h2>Table Data Penduduk</h2>
+                <div class="table-responsive">
+                    <table class="table table-striped table-sm" id="table">
+                    </table>
+                </div>
+            </main>
+        </div>
+    </div>
+    <script type="text/JavaScript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script type="text/JavaScript" src="http://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script>
+    <script src="dashboard.js"></script>
+</body>
+
+</html>
