@@ -1,0 +1,2481 @@
+[2021-07-01 11:15:44] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:15:45] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Target [Illuminate\Contracts\Http\Kernel] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1089
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(882): Illuminate\Container\Container->notInstantiable('Illuminate\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(754): Illuminate\Container\Container->build('Illuminate\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(692): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Application.php(300): Illuminate\Container\Container->make('Illuminate\\Cont. {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Target [Illuminate\\Contracts\\Http\\Kernel] is not instantiable. in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1089
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(882): Illuminate\\Container\\Container->notInstantiable('Illuminate\\\\Cont...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(754): Illuminate\\Container\\Container->build('Illuminate\\\\Cont...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(692): Illuminate\\Container\\Container->resolve('Illuminate\\\\Cont...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Application.php(300): Illuminate\\Container\\Container->make('Illuminate\\\\Cont. at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1089)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:15:45] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:15:45] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:16:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:17:31] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:17:40] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:17:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:18:32] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:18:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:18:49] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:19:06] local.ERROR: SQLSTATE[42000]: Syntax error or access violation: 1055 'db_akbar.penduduks.id_dusun' isn't in GROUP BY (SQL: select `id_dusun`, count(status) as total from `penduduks` group by `status`) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 42000): SQLSTATE[42000]: Syntax error or access violation: 1055 'db_akbar.penduduks.id_dusun' isn't in GROUP BY (SQL: select `id_dusun`, count(status) as total from `penduduks` group by `status`) at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php:692)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(652): Illuminate\\Database\\Connection->runQueryCallback('select `id_dusu...', Array, Object(Closure))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(360): Illuminate\\Database\\Connection->run('select `id_dusu...', Array, Object(Closure))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2351): Illuminate\\Database\\Connection->select('select `id_dusu...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2339): Illuminate\\Database\\Query\\Builder->runSelect()
+#4 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2905): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#5 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2340): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#6 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(604): Illuminate\\Database\\Query\\Builder->get(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(588): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Controllers/PendudukController.php(31): Illuminate\\Database\\Eloquent\\Builder->get()
+#9 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(36): App\\Http\\Controllers\\PendudukController->totalByDusun('1')
+#10 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#11 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#12 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Laravel\\Lumen\\Application), Array, Object(Closure))
+#13 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(651): Illuminate\\Container\\BoundMethod::call(Object(Laravel\\Lumen\\Application), Array, Array, NULL)
+#14 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(386): Illuminate\\Container\\Container->call(Array, Array)
+#15 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(352): Laravel\\Lumen\\Application->callControllerCallable(Array, Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->callLumenController(Object(App\\Http\\Controllers\\PendudukController), 'totalByDusun', Array)
+#17 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(279): Laravel\\Lumen\\Application->callControllerAction(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(234): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#20 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(170): Laravel\\Lumen\\Application->handleDispatcherResponse(Array)
+#21 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#22 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#23 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(167): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Laravel\\Lumen\\Http\\Request), Object(Closure))
+#24 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#25 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#26 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(423): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#27 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(172): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#28 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(109): Laravel\\Lumen\\Application->dispatch(NULL)
+#29 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#30 {main}
+
+[previous exception] [object] (PDOException(code: 42000): SQLSTATE[42000]: Syntax error or access violation: 1055 'db_akbar.penduduks.id_dusun' isn't in GROUP BY at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php:352)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(352): PDO->prepare('select `id_dusu...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(685): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('select `id_dusu...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(652): Illuminate\\Database\\Connection->runQueryCallback('select `id_dusu...', Array, Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(360): Illuminate\\Database\\Connection->run('select `id_dusu...', Array, Object(Closure))
+#4 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2351): Illuminate\\Database\\Connection->select('select `id_dusu...', Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2339): Illuminate\\Database\\Query\\Builder->runSelect()
+#6 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2905): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#7 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2340): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#8 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(604): Illuminate\\Database\\Query\\Builder->get(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(588): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Controllers/PendudukController.php(31): Illuminate\\Database\\Eloquent\\Builder->get()
+#11 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(36): App\\Http\\Controllers\\PendudukController->totalByDusun('1')
+#12 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#13 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#14 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Laravel\\Lumen\\Application), Array, Object(Closure))
+#15 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(651): Illuminate\\Container\\BoundMethod::call(Object(Laravel\\Lumen\\Application), Array, Array, NULL)
+#16 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(386): Illuminate\\Container\\Container->call(Array, Array)
+#17 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(352): Laravel\\Lumen\\Application->callControllerCallable(Array, Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->callLumenController(Object(App\\Http\\Controllers\\PendudukController), 'totalByDusun', Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(279): Laravel\\Lumen\\Application->callControllerAction(Array)
+#20 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#21 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(234): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#22 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(170): Laravel\\Lumen\\Application->handleDispatcherResponse(Array)
+#23 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#24 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#25 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(167): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Laravel\\Lumen\\Http\\Request), Object(Closure))
+#26 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#27 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#28 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(423): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#29 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(172): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#30 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(109): Laravel\\Lumen\\Application->dispatch(NULL)
+#31 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#32 {main}
+"} 
+[2021-07-01 11:19:38] local.ERROR: SQLSTATE[42000]: Syntax error or access violation: 1140 Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause (SQL: select `id_dusun`, count(status) as total from `penduduks`) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 42000): SQLSTATE[42000]: Syntax error or access violation: 1140 Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause (SQL: select `id_dusun`, count(status) as total from `penduduks`) at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php:692)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(652): Illuminate\\Database\\Connection->runQueryCallback('select `id_dusu...', Array, Object(Closure))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(360): Illuminate\\Database\\Connection->run('select `id_dusu...', Array, Object(Closure))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2351): Illuminate\\Database\\Connection->select('select `id_dusu...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2339): Illuminate\\Database\\Query\\Builder->runSelect()
+#4 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2905): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#5 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2340): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#6 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(604): Illuminate\\Database\\Query\\Builder->get(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(588): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Controllers/PendudukController.php(30): Illuminate\\Database\\Eloquent\\Builder->get()
+#9 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(36): App\\Http\\Controllers\\PendudukController->totalByDusun('1')
+#10 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#11 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#12 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Laravel\\Lumen\\Application), Array, Object(Closure))
+#13 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(651): Illuminate\\Container\\BoundMethod::call(Object(Laravel\\Lumen\\Application), Array, Array, NULL)
+#14 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(386): Illuminate\\Container\\Container->call(Array, Array)
+#15 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(352): Laravel\\Lumen\\Application->callControllerCallable(Array, Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->callLumenController(Object(App\\Http\\Controllers\\PendudukController), 'totalByDusun', Array)
+#17 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(279): Laravel\\Lumen\\Application->callControllerAction(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(234): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#20 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(170): Laravel\\Lumen\\Application->handleDispatcherResponse(Array)
+#21 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#22 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#23 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(167): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Laravel\\Lumen\\Http\\Request), Object(Closure))
+#24 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#25 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#26 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(423): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#27 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(172): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#28 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(109): Laravel\\Lumen\\Application->dispatch(NULL)
+#29 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#30 {main}
+
+[previous exception] [object] (PDOException(code: 42000): SQLSTATE[42000]: Syntax error or access violation: 1140 Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php:352)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(352): PDO->prepare('select `id_dusu...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(685): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('select `id_dusu...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(652): Illuminate\\Database\\Connection->runQueryCallback('select `id_dusu...', Array, Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(360): Illuminate\\Database\\Connection->run('select `id_dusu...', Array, Object(Closure))
+#4 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2351): Illuminate\\Database\\Connection->select('select `id_dusu...', Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2339): Illuminate\\Database\\Query\\Builder->runSelect()
+#6 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2905): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#7 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2340): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#8 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(604): Illuminate\\Database\\Query\\Builder->get(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(588): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Controllers/PendudukController.php(30): Illuminate\\Database\\Eloquent\\Builder->get()
+#11 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(36): App\\Http\\Controllers\\PendudukController->totalByDusun('1')
+#12 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#13 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#14 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Laravel\\Lumen\\Application), Array, Object(Closure))
+#15 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(651): Illuminate\\Container\\BoundMethod::call(Object(Laravel\\Lumen\\Application), Array, Array, NULL)
+#16 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(386): Illuminate\\Container\\Container->call(Array, Array)
+#17 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(352): Laravel\\Lumen\\Application->callControllerCallable(Array, Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->callLumenController(Object(App\\Http\\Controllers\\PendudukController), 'totalByDusun', Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(279): Laravel\\Lumen\\Application->callControllerAction(Array)
+#20 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#21 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(234): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#22 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(170): Laravel\\Lumen\\Application->handleDispatcherResponse(Array)
+#23 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#24 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#25 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(167): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Laravel\\Lumen\\Http\\Request), Object(Closure))
+#26 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#27 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#28 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(423): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#29 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(172): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#30 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(109): Laravel\\Lumen\\Application->dispatch(NULL)
+#31 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#32 {main}
+"} 
+[2021-07-01 11:19:39] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:19:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:20:18] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:20:43] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:20:51] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:21:00] local.ERROR: SQLSTATE[42000]: Syntax error or access violation: 1140 Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause (SQL: select `id_dusun`, count(status) as total from `penduduks` where `id_dusun` = 1) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 42000): SQLSTATE[42000]: Syntax error or access violation: 1140 Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause (SQL: select `id_dusun`, count(status) as total from `penduduks` where `id_dusun` = 1) at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php:692)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(652): Illuminate\\Database\\Connection->runQueryCallback('select `id_dusu...', Array, Object(Closure))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(360): Illuminate\\Database\\Connection->run('select `id_dusu...', Array, Object(Closure))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2351): Illuminate\\Database\\Connection->select('select `id_dusu...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2339): Illuminate\\Database\\Query\\Builder->runSelect()
+#4 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2905): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#5 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2340): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#6 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(604): Illuminate\\Database\\Query\\Builder->get(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(588): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Controllers/PendudukController.php(31): Illuminate\\Database\\Eloquent\\Builder->get()
+#9 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(36): App\\Http\\Controllers\\PendudukController->totalByDusun('1')
+#10 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#11 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#12 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Laravel\\Lumen\\Application), Array, Object(Closure))
+#13 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(651): Illuminate\\Container\\BoundMethod::call(Object(Laravel\\Lumen\\Application), Array, Array, NULL)
+#14 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(386): Illuminate\\Container\\Container->call(Array, Array)
+#15 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(352): Laravel\\Lumen\\Application->callControllerCallable(Array, Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->callLumenController(Object(App\\Http\\Controllers\\PendudukController), 'totalByDusun', Array)
+#17 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(279): Laravel\\Lumen\\Application->callControllerAction(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(234): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#20 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(170): Laravel\\Lumen\\Application->handleDispatcherResponse(Array)
+#21 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#22 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#23 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(167): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Laravel\\Lumen\\Http\\Request), Object(Closure))
+#24 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#25 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#26 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(423): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#27 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(172): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#28 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(109): Laravel\\Lumen\\Application->dispatch(NULL)
+#29 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#30 {main}
+
+[previous exception] [object] (PDOException(code: 42000): SQLSTATE[42000]: Syntax error or access violation: 1140 Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php:352)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(352): PDO->prepare('select `id_dusu...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(685): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('select `id_dusu...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(652): Illuminate\\Database\\Connection->runQueryCallback('select `id_dusu...', Array, Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(360): Illuminate\\Database\\Connection->run('select `id_dusu...', Array, Object(Closure))
+#4 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2351): Illuminate\\Database\\Connection->select('select `id_dusu...', Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2339): Illuminate\\Database\\Query\\Builder->runSelect()
+#6 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2905): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#7 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2340): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#8 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(604): Illuminate\\Database\\Query\\Builder->get(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(588): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Controllers/PendudukController.php(31): Illuminate\\Database\\Eloquent\\Builder->get()
+#11 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(36): App\\Http\\Controllers\\PendudukController->totalByDusun('1')
+#12 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#13 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#14 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Laravel\\Lumen\\Application), Array, Object(Closure))
+#15 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(651): Illuminate\\Container\\BoundMethod::call(Object(Laravel\\Lumen\\Application), Array, Array, NULL)
+#16 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(386): Illuminate\\Container\\Container->call(Array, Array)
+#17 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(352): Laravel\\Lumen\\Application->callControllerCallable(Array, Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->callLumenController(Object(App\\Http\\Controllers\\PendudukController), 'totalByDusun', Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(279): Laravel\\Lumen\\Application->callControllerAction(Array)
+#20 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#21 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(234): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#22 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(170): Laravel\\Lumen\\Application->handleDispatcherResponse(Array)
+#23 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#24 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#25 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(167): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Laravel\\Lumen\\Http\\Request), Object(Closure))
+#26 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#27 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#28 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(423): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#29 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(172): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#30 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(109): Laravel\\Lumen\\Application->dispatch(NULL)
+#31 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#32 {main}
+"} 
+[2021-07-01 11:21:02] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:21:24] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:21:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:22:39] local.ERROR: SQLSTATE[42000]: Syntax error or access violation: 1140 Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause (SQL: select `status`, count(status) as total from `penduduks` where `id_dusun` = 1) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 42000): SQLSTATE[42000]: Syntax error or access violation: 1140 Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause (SQL: select `status`, count(status) as total from `penduduks` where `id_dusun` = 1) at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php:692)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(652): Illuminate\\Database\\Connection->runQueryCallback('select `status`...', Array, Object(Closure))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(360): Illuminate\\Database\\Connection->run('select `status`...', Array, Object(Closure))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2351): Illuminate\\Database\\Connection->select('select `status`...', Array, true)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2339): Illuminate\\Database\\Query\\Builder->runSelect()
+#4 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2905): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#5 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2340): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#6 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(604): Illuminate\\Database\\Query\\Builder->get(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(588): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Controllers/PendudukController.php(31): Illuminate\\Database\\Eloquent\\Builder->get()
+#9 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(36): App\\Http\\Controllers\\PendudukController->totalByDusun('1')
+#10 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#11 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#12 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Laravel\\Lumen\\Application), Array, Object(Closure))
+#13 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(651): Illuminate\\Container\\BoundMethod::call(Object(Laravel\\Lumen\\Application), Array, Array, NULL)
+#14 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(386): Illuminate\\Container\\Container->call(Array, Array)
+#15 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(352): Laravel\\Lumen\\Application->callControllerCallable(Array, Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->callLumenController(Object(App\\Http\\Controllers\\PendudukController), 'totalByDusun', Array)
+#17 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(279): Laravel\\Lumen\\Application->callControllerAction(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(234): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#20 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(170): Laravel\\Lumen\\Application->handleDispatcherResponse(Array)
+#21 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#22 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#23 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(167): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Laravel\\Lumen\\Http\\Request), Object(Closure))
+#24 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#25 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#26 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(423): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#27 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(172): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#28 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(109): Laravel\\Lumen\\Application->dispatch(NULL)
+#29 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#30 {main}
+
+[previous exception] [object] (PDOException(code: 42000): SQLSTATE[42000]: Syntax error or access violation: 1140 Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php:352)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(352): PDO->prepare('select `status`...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(685): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('select `status`...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(652): Illuminate\\Database\\Connection->runQueryCallback('select `status`...', Array, Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Connection.php(360): Illuminate\\Database\\Connection->run('select `status`...', Array, Object(Closure))
+#4 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2351): Illuminate\\Database\\Connection->select('select `status`...', Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2339): Illuminate\\Database\\Query\\Builder->runSelect()
+#6 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2905): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#7 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Query/Builder.php(2340): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#8 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(604): Illuminate\\Database\\Query\\Builder->get(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/database/Eloquent/Builder.php(588): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Controllers/PendudukController.php(31): Illuminate\\Database\\Eloquent\\Builder->get()
+#11 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(36): App\\Http\\Controllers\\PendudukController->totalByDusun('1')
+#12 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#13 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#14 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Laravel\\Lumen\\Application), Array, Object(Closure))
+#15 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(651): Illuminate\\Container\\BoundMethod::call(Object(Laravel\\Lumen\\Application), Array, Array, NULL)
+#16 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(386): Illuminate\\Container\\Container->call(Array, Array)
+#17 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(352): Laravel\\Lumen\\Application->callControllerCallable(Array, Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->callLumenController(Object(App\\Http\\Controllers\\PendudukController), 'totalByDusun', Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(279): Laravel\\Lumen\\Application->callControllerAction(Array)
+#20 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#21 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(234): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#22 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(170): Laravel\\Lumen\\Application->handleDispatcherResponse(Array)
+#23 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#24 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#25 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(167): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Laravel\\Lumen\\Http\\Request), Object(Closure))
+#26 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#27 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#28 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(423): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#29 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(172): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#30 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(109): Laravel\\Lumen\\Application->dispatch(NULL)
+#31 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#32 {main}
+"} 
+[2021-07-01 11:22:41] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:22:43] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:23:14] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:23:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:24:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:25:02] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:25:13] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:25:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:25:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:26:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:27:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:28:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:28:56] local.ERROR: Method Illuminate\Database\Eloquent\Collection::orderBy does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Database\\Eloquent\\Collection::orderBy does not exist. at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/macroable/Traits/Macroable.php:103)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Controllers/PendudukController.php(14): Illuminate\\Support\\Collection->__call('orderBy', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(36): App\\Http\\Controllers\\PendudukController->index()
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#4 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Laravel\\Lumen\\Application), Array, Object(Closure))
+#5 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(651): Illuminate\\Container\\BoundMethod::call(Object(Laravel\\Lumen\\Application), Array, Array, NULL)
+#6 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(386): Illuminate\\Container\\Container->call(Array, Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(352): Laravel\\Lumen\\Application->callControllerCallable(Array, Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->callLumenController(Object(App\\Http\\Controllers\\PendudukController), 'index', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(279): Laravel\\Lumen\\Application->callControllerAction(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(166): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#13 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#14 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(167): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Laravel\\Lumen\\Http\\Request), Object(Closure))
+#15 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#16 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/pipeline/Pipeline.php(103): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#17 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(423): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#18 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(172): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#19 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(109): Laravel\\Lumen\\Application->dispatch(NULL)
+#20 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#21 {main}
+"} 
+[2021-07-01 11:28:59] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:29:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:29:45] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:30:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:31:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:32:43] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:33:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:34:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:35:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:35:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:36:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:37:43] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:38:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:39:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:40:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:41:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:42:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:43:45] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:44:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:45:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:45:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:46:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:47:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:48:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:49:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:50:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:51:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:52:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:53:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:54:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:55:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:55:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:56:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:57:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:58:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 11:59:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:00:46] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:01:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:02:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:03:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:04:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:05:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:05:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:06:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:07:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:08:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:09:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:10:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:11:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:12:46] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:13:45] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:14:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:15:45] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:15:45] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:16:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:17:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:18:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:19:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:20:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:21:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:22:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:23:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:24:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:25:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:25:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:26:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:27:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:28:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:29:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:30:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:31:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:32:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:33:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:34:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:35:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:35:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:36:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:37:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:38:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:39:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:40:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:41:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:42:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:43:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:44:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:45:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:45:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:46:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:47:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:48:45] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:49:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:50:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:51:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:52:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:53:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:54:13] local.ERROR: Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to a member function getRoutes() on array in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:54:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:55:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:55:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:56:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:57:45] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:58:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 12:59:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:00:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:01:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:02:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:03:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:04:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:05:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:05:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:06:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:07:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:08:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:09:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:10:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:11:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:12:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:13:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:14:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:15:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:15:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:16:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:17:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:18:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:19:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:20:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:21:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:22:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:23:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:24:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:25:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:25:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:26:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:27:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:28:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:29:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:30:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:31:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:32:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:33:45] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:34:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:35:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:35:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:36:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:37:45] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:38:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:39:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:40:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:41:45] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:42:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:43:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:44:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:45:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:45:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:46:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:47:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:48:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:49:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:50:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:51:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:52:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:53:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:54:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:55:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:55:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:56:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:57:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:58:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 13:59:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 14:00:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 14:01:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 14:02:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 14:03:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 14:04:45] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 14:05:44] local.ERROR: Uncaught Illuminate\Contracts\Container\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\View\Compilers\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\Container\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\Container\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Illuminate\\Contracts\\Container\\BindingResolutionException: Unresolvable dependency resolving [Parameter #1 [ <required> $cachePath ]] in class Illuminate\\View\\Compilers\\Compiler in /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(1011): Illuminate\\Container\\Container->unresolvablePrimitive(Object(ReflectionParameter))
+#1 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(946): Illuminate\\Container\\Container->resolvePrimitive(Object(ReflectionParameter))
+#2 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php(908): Illuminate\\Container\\Container->resolveDependencies(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container at /Applications/XAMPP/xamppfiles/htdocs/job-folder/akbar-skripsi/rest-api/vendor/illuminate/container/Container.php:1104)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 14:05:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 14:06:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 14:07:44] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2021-07-01 14:08:45] local.ERROR: Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Call to undefined function app_path() in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
